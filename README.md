@@ -17,9 +17,8 @@ This project analyzes sales performance across regions and products.
 - Trend analysis
 
 ## Dataset
-[ecommerce_dashboard.xlsx](https://github.com/user-attachments/files/26401569/ecommerce_dashboard.xlsx)
+[ecommerce_Dataset](https://github.com/user-attachments/files/26401569/ecommerce_dashboard.xlsx)
 
+## Dashboard 
+![e-commerce_dashboard](https://github.com/user-attachments/assets/ee031ae2-010a-468f-9b23-f4b01cd13db9)
 
-
-## Dashboard Preview
-[e-commerce_dashboard](https://github.com/user-attachments/assets/28c016fe-2c23-4827-8384-566a3a04a1e5)
