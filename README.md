@@ -1,15 +1,15 @@
 # Sales Dashboard (Power BI)
 
 ## Overview
-This project analyzes sales performance across regions and products.
+This project analyzes the products purchase rate across an ecommerce platform.
 
 ## Tools Used
 - Power BI
 - Excel
 
 ## Key Insights
-- West region generated highest revenue
-- Product B has highest profit margin
+- The purchsed rate is low compared to the number of clicks.
+- Single product purchases are more preferred.
 
 ## Features
 - Interactive filters
