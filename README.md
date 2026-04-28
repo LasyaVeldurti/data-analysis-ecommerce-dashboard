@@ -1,4 +1,4 @@
-# Sales Dashboard (Power BI)
+# Ecommerce Dashboard (Power BI)
 
 ## Overview
 This project analyzes the products purchase rate across an ecommerce platform.
